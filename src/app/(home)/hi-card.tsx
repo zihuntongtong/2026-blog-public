@@ -7,13 +7,13 @@ function getGreeting() {
 	const hour = new Date().getHours()
 
 	if (hour >= 6 && hour < 12) {
-		return 'Good Morning'
+		return '上午好'
 	} else if (hour >= 12 && hour < 18) {
-		return 'Good Afternoon'
+		return '下午好'
 	} else if (hour >= 18 && hour < 22) {
-		return 'Good Evening'
+		return '晚上好'
 	} else {
-		return 'Good Night'
+		return '晚安'
 	}
 }
 
