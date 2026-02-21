@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "legal空间",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"description": "卢律师的个人博客，记录律师执业的探索、笔记，分享有趣电子书、影视资源、教程、网站、实用工具等有趣的事物。",
 		"username": "卢律师"
 	},
 	"theme": {
@@ -32,7 +32,7 @@
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -45,7 +45,7 @@
 			"id": "github",
 			"type": "xiaohongshu",
 			"value": " 11",
-			"label": "小红书",
+			"label": "",
 			"order": 3
 		},
 		{
@@ -66,7 +66,7 @@
 			"id": "button-1771705258019",
 			"type": "weibo",
 			"value": " 11",
-			"label": "微博",
+			"label": "",
 			"order": 4
 		},
 		{
