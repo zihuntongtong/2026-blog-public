@@ -146,7 +146,7 @@ export default function NavCard() {
 
 					{(form === 'full' || form === 'icons') && (
 						<>
-							{form !== 'icons' && <div className='text-secondary mt-6 text-sm uppercase'>General</div>}
+							{form !== 'icons' && <div className='text-secondary mt-6 text-sm uppercase'>导航</div>}
 
 							<div className={cn('relative mt-2 space-y-2', form === 'icons' && 'mt-0 flex items-center gap-6 space-y-0')}>
 								<motion.div
