@@ -88,14 +88,5 @@
 	"beian": {
 		"text": "",
 		"link": ""
-	},
-	"homeCard": {
-		"title": "幸会",
-		"description": "我是卢律师，欢迎来到我的法律空间。",
-		"url": ""
-	},
-	"music": {
-		"name": "法律之魂",
-		"url": "/music/close-to-you.mp3"
 	}
 }
