@@ -88,10 +88,10 @@
 	"beian": {
 		"text": "",
 		"link": ""
-    "homeCard": {
+	},
+	"homeCard": {
 		"title": "幸会",
 		"description": "我是卢律师，欢迎来到我的法律空间。",
 		"url": ""
 	},
-	}
 }
