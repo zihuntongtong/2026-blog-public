@@ -1,0 +1,92 @@
+{
+	"meta": {
+		"title": "legal空间",
+		"description": "卢律师的个人博客，记录律师执业的探索、笔记，分享有趣电子书、影视资源、教程、网站、实用工具等有趣的事物。",
+		"username": "卢律师"
+	},
+	"theme": {
+		"colorBrand": "#35bfab",
+		"colorPrimary": "#334f52",
+		"colorSecondary": "#7b888e",
+		"colorBrandSecondary": "#1fc9e7",
+		"colorBg": "#eeeeee",
+		"colorBorder": "#ffffff",
+		"colorCard": "#ffffff66",
+		"colorArticle": "#ffffffcc"
+	},
+	"backgroundColors": [
+		"#EDDD62",
+		"#9EE7D1",
+		"#84D68A",
+		"#EDDD62",
+		"#88E6E5",
+		"#a7f3d0"
+	],
+	"artImages": [
+		{
+			"id": "cat",
+			"url": "/images/art/cat.png"
+		},
+		{
+			"id": "a46372ff45bc5524",
+			"url": "/images/art/a46372ff45bc5524.jpg"
+		}
+	],
+	"currentArtImageId": "a46372ff45bc5524",
+	"backgroundImages": [
+		{
+			"id": "",
+			"url": ""
+		}
+	],
+	"currentBackgroundImageId": "",
+	"socialButtons": [
+		{
+			"id": "github",
+			"type": "xiaohongshu",
+			"value": " 11",
+			"label": "",
+			"order": 3
+		},
+		{
+			"id": "juejin",
+			"type": "wechat",
+			"value": "linegr18576437581",
+			"label": "稀土掘金",
+			"order": 2
+		},
+		{
+			"id": "email",
+			"type": "email",
+			"value": "zihuntongtong@gmail.com",
+			"label": "",
+			"order": 1
+		},
+		{
+			"id": "button-1771705258019",
+			"type": "weibo",
+			"value": " 11",
+			"label": "",
+			"order": 4
+		},
+		{
+			"id": "button-1771705279470",
+			"type": "tiktok",
+			"value": " 11",
+			"label": "",
+			"order": 5
+		}
+	],
+	"clockShowSeconds": false,
+	"summaryInContent": false,
+	"isCachePem": false,
+	"hideEditButton": false,
+	"enableCategories": true,
+	"currentHatIndex": 3,
+	"hatFlipped": false,
+	"enableChristmas": false,
+	"beian": {
+		"text": "",
+		"link": ""
+	}
+}
