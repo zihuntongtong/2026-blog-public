@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "legal空间",
-		"description": "卢律师的个人博客，记录律师执业的探索、笔记，分享有趣电子书、影视资源、教程、网站、实用工具等有趣的事物。",
+		"description": "卢律师的法律空间，记录刑事与民商事办案思考，分享法律干货与执业笔记。",
 		"username": "卢律师"
 	},
 	"theme": {
@@ -44,7 +44,7 @@
 		{
 			"id": "github",
 			"type": "xiaohongshu",
-			"value": " 11",
+			"value": "11",
 			"label": "",
 			"order": 3
 		},
@@ -52,7 +52,7 @@
 			"id": "juejin",
 			"type": "wechat",
 			"value": "linegr18576437581",
-			"label": "稀土掘金",
+			"label": "个人微信",
 			"order": 2
 		},
 		{
@@ -65,14 +65,14 @@
 		{
 			"id": "button-1771705258019",
 			"type": "weibo",
-			"value": " 11",
+			"value": "11",
 			"label": "",
 			"order": 4
 		},
 		{
 			"id": "button-1771705279470",
 			"type": "tiktok",
-			"value": " 11",
+			"value": "11",
 			"label": "",
 			"order": 5
 		}
@@ -85,7 +85,7 @@
 	"currentHatIndex": 3,
 	"hatFlipped": false,
 	"enableChristmas": false,
-"beian": {
+	"beian": {
 		"text": "",
 		"link": ""
 	},
