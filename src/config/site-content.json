@@ -44,7 +44,7 @@
 		{
 			"id": "github",
 			"type": "xiaohongshu",
-			"value": " ",
+			"value": " 11",
 			"label": "小红书",
 			"order": 3
 		},
@@ -64,10 +64,17 @@
 		},
 		{
 			"id": "button-1771705258019",
-			"type": "link",
-			"value": "",
-			"label": "",
+			"type": "weibo",
+			"value": " 11",
+			"label": "微博",
 			"order": 4
+		},
+		{
+			"id": "button-1771705279470",
+			"type": "tiktok",
+			"value": " 11",
+			"label": "抖音",
+			"order": 5
 		}
 	],
 	"clockShowSeconds": true,
