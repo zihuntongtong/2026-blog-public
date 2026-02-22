@@ -169,7 +169,7 @@ export default function Page() {
 
 					<div className='mt-8 flex items-center justify-center gap-6'>
 						<motion.a
-							href=' '
+							href='lingerlaw.top'
 							target='_blank'
 							rel='noreferrer'
 							initial={{ opacity: 0, scale: 0.6 }}
