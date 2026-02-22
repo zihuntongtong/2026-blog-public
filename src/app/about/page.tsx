@@ -168,17 +168,6 @@ export default function Page() {
 					)}
 
 					<div className='mt-8 flex items-center justify-center gap-6'>
-						<motion.a
-							href='lingerlaw.top'
-							target='_blank'
-							rel='noreferrer'
-							initial={{ opacity: 0, scale: 0.6 }}
-							animate={{ opacity: 1, scale: 1 }}
-							transition={{ delay: 0 }}
-							className='bg-card flex h-[53px] w-[53px] items-center justify-center rounded-full border'>
-							<GithubSVG />
-						</motion.a>
-
 						<LikeButton slug='open-source' delay={0} />
 					</div>
 				</div>
