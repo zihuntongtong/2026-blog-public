@@ -14,7 +14,7 @@ export default function GiscusBoard() {
         script.src = 'https://giscus.app/client.js'
         script.setAttribute('data-repo', 'zihuntongtong/2026-blog-public') // 需替换为用户的仓库路径
         script.setAttribute('data-repo-id', 'R_kgDORVndtg') // 示例 ID，实际需替换
-        script.setAttribute('data-category', 'Announcements')
+        script.setAttribute('data-category', 'General')
         script.setAttribute('data-category-id', 'DIC_kwDORVndts4C3Da2') // 示例 ID，实际需替换
         script.setAttribute('data-mapping', 'pathname')
         script.setAttribute('data-strict', '0')
@@ -35,5 +35,6 @@ export default function GiscusBoard() {
         </div>
     )
 }
+
 
 
