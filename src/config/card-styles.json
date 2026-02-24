@@ -53,8 +53,8 @@
 		"width": 200,
 		"height": 180,
 		"order": 7,
-		"offsetX": 317,
-		"offsetY": 234,
+		"offsetX": 302,
+		"offsetY": 237,
 		"enabled": true
 	},
 	"articleCard": {
@@ -82,11 +82,11 @@
 		"enabled": true
 	},
 	"likePosition": {
-		"width": 50,
-		"height": 63,
+		"width": 51,
+		"height": 50,
 		"order": 8,
-		"offsetX": 191,
-		"offsetY": 350,
+		"offsetX": 166,
+		"offsetY": 364,
 		"enabled": true
 	},
 	"hatCard": {

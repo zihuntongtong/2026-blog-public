@@ -85,22 +85,8 @@
 	"currentHatIndex": 3,
 	"hatFlipped": false,
 	"enableChristmas": false,
-	"enableSnow": true,
 	"beian": {
 		"text": "",
 		"link": ""
-	},
-	"musicList": [
-		{
-			"name": "世间始终你好",
-			"artist": "黄蓉主题曲",
-			"url": "/music/世间始终你好_黄蓉主题曲.mp3"
-		},
-		{
-			"name": "Close To You",
-			"artist": "Carpenters",
-			"url": "/music/close-to-you.mp3"
-		}
-	],
-	"enableCursor": false
+	}
 }
