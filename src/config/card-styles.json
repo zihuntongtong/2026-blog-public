@@ -53,8 +53,8 @@
 		"width": 200,
 		"height": 180,
 		"order": 7,
-		"offsetX": 367,
-		"offsetY": 257,
+		"offsetX": 372,
+		"offsetY": 248,
 		"enabled": true
 	},
 	"articleCard": {
@@ -85,8 +85,8 @@
 		"width": 51,
 		"height": 50,
 		"order": 8,
-		"offsetX": 161,
-		"offsetY": 351,
+		"offsetX": 173,
+		"offsetY": 352,
 		"enabled": true
 	},
 	"hatCard": {
